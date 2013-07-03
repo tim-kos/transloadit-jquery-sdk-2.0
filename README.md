@@ -6,7 +6,7 @@ It's currently work-in-progress and not working yet.
 
 ## Differences from the old SDK
 
-There are several differences compared to the old one located [documented here](http://transloadit.com/docs/jquery-plugin).
+There are several differences compared to the old one [documented here](http://transloadit.com/docs/jquery-plugin).
 
 ### Default configuration settings
 
