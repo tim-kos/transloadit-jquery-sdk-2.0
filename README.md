@@ -30,7 +30,7 @@ So for example if you had two forms on your page, and you use $('form').transloa
 
 ## Contributing
 
-This is work heavily in progress. For the time being we are thankful for any feature ideas you have.
+This is work in progress and we are happy for any help and ideas we can get. :)
 
 ## Dependencies
 
